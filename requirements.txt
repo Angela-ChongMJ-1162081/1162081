@@ -7,3 +7,5 @@ ipykernel
 ydata-profiling
 category_encoders
 imblearn
+shap
+lime
